@@ -6,12 +6,12 @@
 
 ## 🏛️ Category A: Distributed Microservices Ecosystem
 
-### 🛠️ FleetCore — Distributed IT Asset Management
+### 1. 🛠️ FleetCore — Distributed IT Asset Management
 * **Tech Stack:** NestJS, RabbitMQ, gRPC, PostgreSQL, Docker
 * **Highlight:** Event-driven architecture using a database-per-service pattern and asynchronous message broker communication.
 * **Repository:** `[Link Repo FleetCore]`
 
-### 📦 DistroCart — High-Traffic E-Commerce Engine *(Next Project)*
+### 2. 📦 DistroCart — High-Traffic E-Commerce Engine *(Next Project)*
 * **Tech Stack:** Go (Golang), Apache Kafka, Redis Cluster, MongoDB, Kubernetes
 * **Highlight:** High-throughput flash-sale engine implementing CQRS and transactional outbox patterns.
 * **Repository:** `[TODO: Next Project]`
@@ -20,7 +20,7 @@
 
 ## 🚀 Category B: Distributed Monolith & Workspaces
 
-### 📦 FleetFlow — On-Demand Logistics Ecosystem
+### 1. 📦 FleetFlow — On-Demand Logistics Ecosystem
 * **Tech Stack:** NestJS, Next.js, Flutter, Redis (BullMQ), Prisma, PostgreSQL, Docker
 * **Highlight:** Real-time event-driven matching engine pairing customers with drivers via background message queues.
 * **Architecture Repositories:**
