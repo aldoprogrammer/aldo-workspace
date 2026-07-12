@@ -1,6 +1,6 @@
 # 🌟 Engineering Portfolio
 
-> **Aldo Latasoba** | Full-Stack Developer, DevOps Engineer & Product Manager
+> **Aldo Latasoba** | Full-Stack Web & Mobile Software Engineer
 
 ---
 
