@@ -80,7 +80,7 @@ https://github.com/facebook/lexical/pulls?q=is%3Apr+is%3Amerged+author%3Aaldopro
   https://github.com/aldoprogrammer/100-Days-ReactJS
 
 * Flutter Matching App Prototype
-  https://github.com/aldoprogrammer/boo_matching_fe_flutter_test_by_aldo
+  [https://github.com/aldoprogrammer/boo_matching_flutter](https://github.com/aldoprogrammer/boo_matching_flutter)
 
 ---
 
