@@ -34,67 +34,32 @@
 - **VividCraft — Digital Marketplace Platform**  
   https://github.com/aldoprogrammer/Vivid-Craft-Digital-Marketplace
 
-- **DistroCart — High-Traffic E-Commerce Engine**  
-  `[In Progress]`
-
-### DistroCart — High-Traffic E-Commerce Engine
-`[In Progress]`
+- **VoyageX** — Travel & Booking Platform
+  https://github.com/aldoprogrammer/VoyageX
 
 ---
 
 # 🏗️ 3. Enterprise Applications & Monoliths
 
-### TaskFlow Enterprise
-Project management platform with:
-- Laravel
-- Terraform
-- Kubernetes
-- MySQL
-- Queue Jobs
-- Swagger API
-- Security Middleware
-- AI Integration
+- **TaskFlow Enterprise** — Project Management Platform
+  https://github.com/aldoprogrammer/trello-laravel
 
-https://github.com/aldoprogrammer/trello-laravel
+- **BookingDokter** — Doctor Appointment Platform
+  - Frontend: https://github.com/aldoprogrammer/BookingDokter-FrontEnd
+  - Backend: https://github.com/aldoprogrammer/BookingDokter-BackEnd
 
----
+- **School Management System**
+  https://github.com/aldoprogrammer/school-management-system
 
-### BookingDokter — Doctor Appointment Platform
+- **Book Inventory Platform (MERN)**
+  - Frontend: https://github.com/aldoprogrammer/FrontEnd-Book-Inventory-MERN-
+  - Backend: https://github.com/aldoprogrammer/BackEnd-Book-Inventory-MERN
 
-Frontend:
-https://github.com/aldoprogrammer/BookingDokter-FrontEnd
+- **Boarding School Report Mobile App**
+  https://github.com/aldoprogrammer/boarding-school-report-mobile
 
-Backend:
-https://github.com/aldoprogrammer/BookingDokter-BackEnd
-
----
-
-### School Management System
-
-https://github.com/aldoprogrammer/school-management-system
-
----
-
-### Book Inventory Platform (MERN)
-
-Frontend:
-https://github.com/aldoprogrammer/FrontEnd-Book-Inventory-MERN-
-
-Backend:
-https://github.com/aldoprogrammer/BackEnd-Book-Inventory-MERN
-
----
-
-### Boarding School Report Mobile App
-
-https://github.com/aldoprogrammer/boarding-school-report-mobile
-
----
-
-### Yummy — Food Ordering Mobile App
-
-https://github.com/aldoprogrammer/yummy-flutter
-
+- **Yummy** — Food Ordering Mobile App
+  https://github.com/aldoprogrammer/yummy-flutter
 ---
 
 # 🌍 4. Open Source Contributions
