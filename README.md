@@ -37,6 +37,9 @@
 - **VoyageX** — Travel & Booking Platform
   https://github.com/aldoprogrammer/VoyageX
 
+- **PayPulse** — Distributed Payment Gateway Simulator
+  https://github.com/aldoprogrammer/PayPulse-API
+
 ---
 
 # 🏗️ 3. Enterprise Applications & Monoliths
