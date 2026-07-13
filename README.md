@@ -28,10 +28,14 @@
 
 # 🏛️ 2. Distributed Systems & Microservices
 
-### AssetSphere — Enterprise IT Asset Management Platform
-Production-oriented Laravel microservices architecture with RabbitMQ, PostgreSQL-per-service, Kubernetes, and Terraform.
+- **AssetSphere — Enterprise IT Asset Management Platform**  
+  https://github.com/aldoprogrammer/AssetMonitoringSystem
 
-https://github.com/aldoprogrammer/AssetMonitoringSystem
+- **VividCraft — Digital Marketplace Platform**  
+  https://github.com/aldoprogrammer/Vivid-Craft-Digital-Marketplace
+
+- **DistroCart — High-Traffic E-Commerce Engine**  
+  `[In Progress]`
 
 ### DistroCart — High-Traffic E-Commerce Engine
 `[In Progress]`
