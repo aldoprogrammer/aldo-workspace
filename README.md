@@ -4,48 +4,133 @@
 
 ---
 
-## 🚀 1. Full-Stack Ecosystem Workspace (Distributed Monolith)
+# 🚀 1. Full-Stack Ecosystem Workspace (Distributed Monolith)
 
-* 💻 **Backend API Node / NestJS Engine:** https://github.com/aldoprogrammer/fleetflow-api
-* 🖥️ **Merchant & Admin Dashboard Next.js:** https://github.com/aldoprogrammer/fleetflow-web
-* 📱 **Driver Mobile App Flutter:** https://github.com/aldoprogrammer/fleetflow-app
-* ⚙️ **Shared Packages & DevOps Infrastructure:** https://github.com/aldoprogrammer/fleetflow-shared / https://github.com/aldoprogrammer/fleetflow-infra
-* 📄 **System Documentation:** https://github.com/aldoprogrammer/fleetflow-docs
+### FleetFlow — On-Demand Logistics Platform
 
----
+* 💻 Backend API (NestJS)
+  https://github.com/aldoprogrammer/fleetflow-api
 
-## 🏛️ 2. Distributed Microservices Portfolio
+* 🖥️ Merchant & Admin Dashboard (Next.js)
+  https://github.com/aldoprogrammer/fleetflow-web
 
-* **Asset Management System:** https://github.com/aldoprogrammer/AssetMonitoringSystem
-* **DistroCart — High-Traffic E-Commerce Engine:** `[TODO: Next Project]`
+* 📱 Driver Mobile App (Flutter)
+  https://github.com/aldoprogrammer/fleetflow-app
 
----
+* ⚙️ Shared Packages & Infrastructure
+  https://github.com/aldoprogrammer/fleetflow-shared
+  https://github.com/aldoprogrammer/fleetflow-infra
 
-## 🏗️ 3. High-Class Enterprise Monolith
-
-* **Masterpiece Enterprise Monolith:** `[TODO: New Monolith Project]`
-* **AI Audio Streamer & Labs:** `[Link Repo AI Labs]`
-* **Forex Trading Analysis Hub:** `[Link Repo Forex Analysis]`
+* 📄 System Documentation
+  https://github.com/aldoprogrammer/fleetflow-docs
 
 ---
 
-## 🌍 4. Open Source Contributions
+# 🏛️ 2. Distributed Systems & Microservices
 
-* **Meta's Lexical Editor (Open Source Contributor)**  
-  Contributed merged pull requests to the Lexical rich text editor project maintained by Meta.
+### AssetSphere — Enterprise IT Asset Management Platform
+Production-oriented Laravel microservices architecture with RabbitMQ, PostgreSQL-per-service, Kubernetes, and Terraform.
 
-  🔗 https://github.com/facebook/lexical/pulls?q=is%3Apr+is%3Amerged+author%3Aaldoprogrammer
+https://github.com/aldoprogrammer/AssetMonitoringSystem
+
+### DistroCart — High-Traffic E-Commerce Engine
+`[In Progress]`
 
 ---
 
-## 🛠️ Technology Stack
+# 🏗️ 3. Enterprise Applications & Monoliths
 
-**Backend:** Node.js, NestJS, Express, TypeScript, PostgreSQL, MySQL, Redis, RabbitMQ
+### TaskFlow Enterprise
+Project management platform with:
+- Laravel
+- Terraform
+- Kubernetes
+- MySQL
+- Queue Jobs
+- Swagger API
+- Security Middleware
+- AI Integration
 
-**Frontend:** React, Next.js, Tailwind CSS, TypeScript
+https://github.com/aldoprogrammer/trello-laravel
 
-**Mobile:** Flutter, Dart
+---
 
-**Infrastructure & DevOps:** Docker, Kubernetes, CI/CD, Linux, Nginx, GitHub Actions
+### BookingDokter — Doctor Appointment Platform
 
-**Architecture:** Multi-Repository Workspace, Microservices, Event-Driven Architecture, Clean Architecture, Domain-Driven Design (DDD)
+Frontend:
+https://github.com/aldoprogrammer/BookingDokter-FrontEnd
+
+Backend:
+https://github.com/aldoprogrammer/BookingDokter-BackEnd
+
+---
+
+### School Management System
+
+https://github.com/aldoprogrammer/school-management-system
+
+---
+
+### Book Inventory Platform (MERN)
+
+Frontend:
+https://github.com/aldoprogrammer/FrontEnd-Book-Inventory-MERN-
+
+Backend:
+https://github.com/aldoprogrammer/BackEnd-Book-Inventory-MERN
+
+---
+
+### Boarding School Report Mobile App
+
+https://github.com/aldoprogrammer/boarding-school-report-mobile
+
+---
+
+### Yummy — Food Ordering Mobile App
+
+https://github.com/aldoprogrammer/yummy-flutter
+
+---
+
+# 🌍 4. Open Source Contributions
+
+### Meta's Lexical Editor
+
+Merged Pull Requests:
+https://github.com/facebook/lexical/pulls?q=is%3Apr+is%3Amerged+author%3Aaldoprogrammer
+
+---
+
+# 📚 Additional Projects & Experiments
+
+* 100 Days ReactJS
+  https://github.com/aldoprogrammer/100-Days-ReactJS
+
+* Flutter Matching App Prototype
+  https://github.com/aldoprogrammer/boo_matching_fe_flutter_test_by_aldo
+
+---
+
+# 🛠️ Technology Stack
+
+**Backend**
+Node.js, NestJS, Express, Laravel, PHP, TypeScript
+
+**Frontend**
+React, Next.js, Tailwind CSS
+
+**Mobile**
+Flutter, Dart
+
+**Databases**
+PostgreSQL, MySQL, Redis
+
+**Messaging**
+RabbitMQ
+
+**Infrastructure**
+Docker, Kubernetes, Terraform, Linux, Nginx, GitHub Actions
+
+**Architecture**
+Distributed Monolith, Multi-Repository Workspace, Microservices, Event-Driven Architecture, Clean Architecture, Domain-Driven Design (DDD)
