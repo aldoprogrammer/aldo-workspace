@@ -28,16 +28,16 @@
 
 # 🏛️ 2. Distributed Systems & Microservices
 
-- **VividCraft — Digital Marketplace Platform**  
+- **VividCraft — Digital Marketplace Platform**  (Full-Stack)
   https://github.com/aldoprogrammer/Vivid-Craft-Digital-Marketplace
 
-- **VoyageX — Travel & Booking Platform**
+- **VoyageX — Travel & Booking Platform** (Full-Stack)
   https://github.com/aldoprogrammer/VoyageX
 
 - **PayPulse — Distributed Payment Gateway Simulator**
   https://github.com/aldoprogrammer/PayPulse-API
 
-- **AssetSphere — Enterprise IT Asset Management Platform**  
+- **AssetSphere — Enterprise IT Asset Management Platform** (Backend Only)  
   https://github.com/aldoprogrammer/AssetMonitoringSystem
 
 
@@ -52,7 +52,7 @@
   - Frontend: https://github.com/aldoprogrammer/BookingDokter-FrontEnd
   - Backend: https://github.com/aldoprogrammer/BookingDokter-BackEnd
 
-- **School Management System**
+- **School Management System** (Full-Stack)
   https://github.com/aldoprogrammer/school-management-system
 
 - **Book Inventory Platform (MERN)**
@@ -60,9 +60,10 @@
   - Backend: https://github.com/aldoprogrammer/BackEnd-Book-Inventory-MERN
 
 - **Boarding School Report Mobile App**
-  https://github.com/aldoprogrammer/boarding-school-report-mobile
+  - Frontend (Flutter): https://github.com/aldoprogrammer/boarding-school-report-mobile
+  - Backend: https://github.com/aldoprogrammer/boarding-school-report-mobile-backend
 
-- **Yummy** — Food Ordering Mobile App
+- **Yummy** — Food Ordering Mobile App (Front-End Only)
   https://github.com/aldoprogrammer/yummy-flutter
 ---
 
@@ -73,6 +74,15 @@
 Merged Pull Requests:
 https://github.com/facebook/lexical/pulls?q=is%3Apr+is%3Amerged+author%3Aaldoprogrammer
 
+---
+# 🤖 5. AI, Data Science & Python Experiments
+
+- **Python Data Science & Machine Learning Workspace**  
+  *(Includes NLP Sentiment Analysis, Recommendation Systems, Stock Price Prediction, and AI Models)*  
+  https://github.com/aldoprogrammer/python-data-science-projects
+
+- **All Python & Machine Learning Repositories**  
+  https://github.com/aldoprogrammer?tab=repositories&q=&type=&language=python&sort=
 ---
 
 # 📚 Additional Projects & Experiments
