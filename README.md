@@ -28,17 +28,18 @@
 
 # 🏛️ 2. Distributed Systems & Microservices
 
-- **AssetSphere — Enterprise IT Asset Management Platform**  
-  https://github.com/aldoprogrammer/AssetMonitoringSystem
-
 - **VividCraft — Digital Marketplace Platform**  
   https://github.com/aldoprogrammer/Vivid-Craft-Digital-Marketplace
 
-- **VoyageX** — Travel & Booking Platform
+- **VoyageX — Travel & Booking Platform**
   https://github.com/aldoprogrammer/VoyageX
 
-- **PayPulse** — Distributed Payment Gateway Simulator
+- **PayPulse — Distributed Payment Gateway Simulator**
   https://github.com/aldoprogrammer/PayPulse-API
+
+- **AssetSphere — Enterprise IT Asset Management Platform**  
+  https://github.com/aldoprogrammer/AssetMonitoringSystem
+
 
 ---
 
